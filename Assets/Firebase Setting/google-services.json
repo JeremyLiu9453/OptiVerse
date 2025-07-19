@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "3247691194",
+    "project_id": "optiverse-47900245",
+    "storage_bucket": "optiverse-47900245.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:3247691194:android:1140c047ea2e558aff3983",
+        "android_client_info": {
+          "package_name": "com.DefaultCompany.OptiVerseAIEducation"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMqVWgCD1rEJRTOuXsFDK4Ckh8uzkLNoU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
